@@ -4,7 +4,9 @@ This is a project to drive a 3RP1A electrostatic deflection cathode ray tube tha
 
 # Electrostatic CRT Tube Components
 
-* **"Electron Gun"**
+
+## Electron Gun
+
  * **Cathode (Negative potential)**
    * Source of electrons
    * 3RP1A is a "Hot Cathode" (must be heated for electron flow due to [thermionic emission](https://en.wikipedia.org/wiki/Thermionic_emission))
@@ -15,7 +17,9 @@ This is a project to drive a 3RP1A electrostatic deflection cathode ray tube tha
  * **Control Grid(s)**
    * Regulate the amount of electrons allowed to pass through to the phosphor screen (i.e. the "brightness" of the electron beam)
    * Also provides a first electron "Lens"
-* **Beam Deflection**
+
+## Beam Deflection
+
  * **Focusing Anode**
    * A medium voltage anode that forms an   electrostatic field between the high voltage accelerating anode
    * The strength of the field between the two anodes is used an an electron lens to direct the electrons from a diverging to converging beam focused at the distance of the viewing screen.
