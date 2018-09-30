@@ -38,6 +38,15 @@ Using the 3RP1A datasheet it looks like the maximum anode voltage will be betwee
 I'll need a high turns ratio transformer and would prefer to buy a new used or otherwise somewhat known transformer from a vendor.
 
 * https://www.amazing1.com/transformers-high-voltage-high-frequency.html
+ * PN: 28K007
+   * Vout(max) = 2KV @10mA
+   * Lprimary = 4uH
+ * PN: 28K074
+   * Vout(max) = 4KV @10mA
+   * Lprimary = 11.5uH
+ * PN: 28K089
+   * Vout(max) = 7KV @10mA
+   * Lprimary = 19uH
 * http://magnetic-components.mpsind.com/viewitems/flyback-transformers/p3800-series-isolated-flyback-transformers
 
 ## Flyback Converter
