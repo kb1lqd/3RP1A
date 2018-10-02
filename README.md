@@ -84,3 +84,8 @@ I am a bit concerned about how to get loop compensation correct. I might have to
 ## Electrostatic CRT Opeartion
 
 * [Electrostatic CRT components/functions](http://www.tpub.com/neets/book6/21e.htm)
+
+
+## LTSpice
+
+* [Transformers in LTSpice](http://web.cecs.pdx.edu/~tymerski/ece222/How%20to%20create%20a%20transformer%20using%20LTSpice.pdf)
